@@ -86,7 +86,8 @@
             "wikipedia": "",
             "woe_id": "2347554",
             "woe_label": "Vinnytsia Oblast, UA, Ukraine",
-            "woe_name": "Vinnytsya"
+            "woe_name": "Vinnytsya",
+            "name_uk": "\u00d0\u0092\u00d1\u0096\u00d0\u00bd\u00d0\u00bd\u00d0\u00b8\u00d1\u0086\u00d1\u008c\u00d0\u00ba\u00d0\u00b0 \u00d0\u00be\u00d0\u00b1\u00d0\u00bb\u00d0\u00b0\u00d1\u0081\u00d1\u0082\u00d1\u008c"
         },
         "geo": {
             "latitude": 49.233083,
@@ -99,7 +100,7 @@
         "iso_3166_2": "UA-05",
         "iso_a2": "UA",
         "iso_a3": "UKR",
-        "name": "Vinnyts'ka Oblast'",
+        "name": "\u0412\u0456\u043d\u043d\u0438\u0446\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
         "postal": "05",
         "type": "Oblast'",
         "type_en": "Region"
@@ -189,7 +190,8 @@
             "wikipedia": "",
             "woe_id": "2347555",
             "woe_label": "Volyn Oblast, UA, Ukraine",
-            "woe_name": "Volyn"
+            "woe_name": "Volyn",
+            "name_uk": "\u00d0\u0092\u00d0\u00be\u00d0\u00bb\u00d0\u00b8\u00d0\u00bd\u00d1\u0081\u00d1\u008c\u00d0\u00ba\u00d0\u00b0 \u00d0\u00be\u00d0\u00b1\u00d0\u00bb\u00d0\u00b0\u00d1\u0081\u00d1\u0082\u00d1\u008c"
         },
         "geo": {
             "latitude": 50.747233,
@@ -202,7 +204,7 @@
         "iso_3166_2": "UA-07",
         "iso_a2": "UA",
         "iso_a3": "UKR",
-        "name": "Volyns'ka Oblast'",
+        "name": "\u0412\u043e\u043b\u0438\u043d\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
         "postal": "07",
         "type": "Oblast'",
         "type_en": "Region"
@@ -295,7 +297,8 @@
             "wikipedia": "",
             "woe_id": "2347546",
             "woe_label": "Luhansk Oblast, UA, Ukraine",
-            "woe_name": "Luhans'k"
+            "woe_name": "Luhans'k",
+            "name_uk": "\u00d0\u009b\u00d1\u0083\u00d0\u00b3\u00d0\u00b0\u00d0\u00bd\u00d1\u0081\u00d1\u008c\u00d0\u00ba\u00d0\u00b0 \u00d0\u00be\u00d0\u00b1\u00d0\u00bb\u00d0\u00b0\u00d1\u0081\u00d1\u0082\u00d1\u008c"
         },
         "geo": {
             "latitude": 48.574041,
@@ -308,7 +311,7 @@
         "iso_3166_2": "UA-09",
         "iso_a2": "UA",
         "iso_a3": "UKR",
-        "name": "Luhans'ka Oblast'",
+        "name": "\u041b\u0443\u0433\u0430\u043d\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
         "postal": "09",
         "type": "Oblast'",
         "type_en": "Region"
@@ -400,7 +403,8 @@
             "wikipedia": "",
             "woe_id": "2347537",
             "woe_label": "Dnipropetrovsk Oblast, UA, Ukraine",
-            "woe_name": "Dnipropetrovs'k"
+            "woe_name": "Dnipropetrovs'k",
+            "name_uk": "\u00d0\u0094\u00d0\u00bd\u00d1\u0096\u00d0\u00bf\u00d1\u0080\u00d0\u00be\u00d0\u00bf\u00d0\u00b5\u00d1\u0082\u00d1\u0080\u00d0\u00be\u00d0\u00b2\u00d1\u0081\u00d1\u008c\u00d0\u00ba\u00d0\u00b0 \u00d0\u00be\u00d0\u00b1\u00d0\u00bb\u00d0\u00b0\u00d1\u0081\u00d1\u0082\u00d1\u008c"
         },
         "geo": {
             "latitude": 48.464717,
@@ -413,7 +417,7 @@
         "iso_3166_2": "UA-12",
         "iso_a2": "UA",
         "iso_a3": "UKR",
-        "name": "Dnipropetrovs'ka Oblast'",
+        "name": "\u0414\u043d\u0456\u043f\u0440\u043e\u043f\u0435\u0442\u0440\u043e\u0432\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
         "postal": "12",
         "type": "Oblast'",
         "type_en": "Region"
@@ -504,7 +508,8 @@
             "wikipedia": "",
             "woe_id": "2347538",
             "woe_label": "Donetsk Oblast, UA, Ukraine",
-            "woe_name": "Donets'k"
+            "woe_name": "Donets'k",
+            "name_uk": "\u00d0\u0094\u00d0\u00be\u00d0\u00bd\u00d0\u00b5\u00d1\u0086\u00d1\u008c\u00d0\u00ba\u00d0\u00b0 \u00d0\u00be\u00d0\u00b1\u00d0\u00bb\u00d0\u00b0\u00d1\u0081\u00d1\u0082\u00d1\u008c"
         },
         "geo": {
             "latitude": 48.015883,
@@ -517,7 +522,7 @@
         "iso_3166_2": "UA-14",
         "iso_a2": "UA",
         "iso_a3": "UKR",
-        "name": "Donets'ka Oblast'",
+        "name": "\u0414\u043e\u043d\u0435\u0446\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
         "postal": "14",
         "type": "Oblast'",
         "type_en": "Region"
@@ -607,7 +612,8 @@
             "wikipedia": "",
             "woe_id": "2347558",
             "woe_label": "Zhytomyr Oblast, UA, Ukraine",
-            "woe_name": "Zhytomyr"
+            "woe_name": "Zhytomyr",
+            "name_uk": "\u00d0\u0096\u00d0\u00b8\u00d1\u0082\u00d0\u00be\u00d0\u00bc\u00d0\u00b8\u00d1\u0080\u00d1\u0081\u00d1\u008c\u00d0\u00ba\u00d0\u00b0 \u00d0\u00be\u00d0\u00b1\u00d0\u00bb\u00d0\u00b0\u00d1\u0081\u00d1\u0082\u00d1\u008c"
         },
         "geo": {
             "latitude": 50.25465,
@@ -620,7 +626,7 @@
         "iso_3166_2": "UA-18",
         "iso_a2": "UA",
         "iso_a3": "UKR",
-        "name": "Zhytomyrs'ka Oblast'",
+        "name": "\u0416\u0438\u0442\u043e\u043c\u0438\u0440\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
         "postal": "18",
         "type": "Oblast'",
         "type_en": "Region"
@@ -711,7 +717,8 @@
             "wikipedia": "",
             "woe_id": "2347556",
             "woe_label": "Zakarpattia Oblast, UA, Ukraine",
-            "woe_name": "Transcarpathia"
+            "woe_name": "Transcarpathia",
+            "name_uk": "\u00d0\u0097\u00d0\u00b0\u00d0\u00ba\u00d0\u00b0\u00d1\u0080\u00d0\u00bf\u00d0\u00b0\u00d1\u0082\u00d1\u0081\u00d1\u008c\u00d0\u00ba\u00d0\u00b0 \u00d0\u00be\u00d0\u00b1\u00d0\u00bb\u00d0\u00b0\u00d1\u0081\u00d1\u0082\u00d1\u008c"
         },
         "geo": {
             "latitude": 48.6208,
@@ -724,7 +731,7 @@
         "iso_3166_2": "UA-21",
         "iso_a2": "UA",
         "iso_a3": "UKR",
-        "name": "Zakarpats'ka Oblast'",
+        "name": "\u0417\u0430\u043a\u0430\u0440\u043f\u0430\u0442\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
         "postal": "21",
         "type": "Oblast'",
         "type_en": "Region"
@@ -816,7 +823,8 @@
             "wikipedia": "",
             "woe_id": "2347557",
             "woe_label": "Zaporizhia Oblast, UA, Ukraine",
-            "woe_name": "Zaporizhzhya"
+            "woe_name": "Zaporizhzhya",
+            "name_uk": "\u00d0\u0097\u00d0\u00b0\u00d0\u00bf\u00d0\u00be\u00d1\u0080\u00d1\u0096\u00d0\u00b7\u00d1\u008c\u00d0\u00ba\u00d0\u00b0 \u00d0\u00be\u00d0\u00b1\u00d0\u00bb\u00d0\u00b0\u00d1\u0081\u00d1\u0082\u00d1\u008c"
         },
         "geo": {
             "latitude": 47.8388,
@@ -829,7 +837,7 @@
         "iso_3166_2": "UA-23",
         "iso_a2": "UA",
         "iso_a3": "UKR",
-        "name": "Zaporiz'ka Oblast'",
+        "name": "\u0417\u0430\u043f\u043e\u0440\u0456\u0437\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
         "postal": "23",
         "type": "Oblast'",
         "type_en": "Region"
@@ -920,7 +928,8 @@
             "wikipedia": "",
             "woe_id": "2347539",
             "woe_label": "Ivano-Frankivsk Oblast, UA, Ukraine",
-            "woe_name": "Ivano-Frankivs'k"
+            "woe_name": "Ivano-Frankivs'k",
+            "name_uk": "\u00d0\u0086\u00d0\u00b2\u00d0\u00b0\u00d0\u00bd\u00d0\u00be-\u00d0\u00a4\u00d1\u0080\u00d0\u00b0\u00d0\u00bd\u00d0\u00ba\u00d1\u0096\u00d0\u00b2\u00d1\u0081\u00d1\u008c\u00d0\u00ba\u00d0\u00b0 \u00d0\u00be\u00d0\u00b1\u00d0\u00bb\u00d0\u00b0\u00d1\u0081\u00d1\u0082\u00d1\u008c"
         },
         "geo": {
             "latitude": 48.922633,
@@ -933,7 +942,7 @@
         "iso_3166_2": "UA-26",
         "iso_a2": "UA",
         "iso_a3": "UKR",
-        "name": "Ivano-Frankivs'ka Oblast'",
+        "name": "\u0406\u0432\u0430\u043d\u043e-\u0424\u0440\u0430\u043d\u043a\u0456\u0432\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
         "postal": "26",
         "type": "Oblast'",
         "type_en": "Region"
@@ -1024,7 +1033,8 @@
             "wikipedia": "",
             "woe_id": "20070188",
             "woe_label": "Kiev City Municipality, UA, Ukraine",
-            "woe_name": "Kiev City Municipality"
+            "woe_name": "Kiev City Municipality",
+            "name_uk": "\u00d0\u009a\u00d0\u00b8\u00d1\u0097\u00d0\u00b2"
         },
         "geo": {
             "latitude": 50.4501,
@@ -1037,7 +1047,7 @@
         "iso_3166_2": "UA-30",
         "iso_a2": "UA",
         "iso_a3": "UKR",
-        "name": "Ky\u00efv",
+        "name": "\u041a\u0438\u0457\u0432",
         "postal": "30",
         "type": "Rada",
         "type_en": "Municipality"
@@ -1128,7 +1138,8 @@
             "wikipedia": "",
             "woe_id": "2347545",
             "woe_label": "Kiev Oblast, UA, Ukraine",
-            "woe_name": "Kiev"
+            "woe_name": "Kiev",
+            "name_uk": "\u00d0\u009a\u00d0\u00b8\u00d1\u0097\u00d0\u00b2\u00d1\u0081\u00d1\u008c\u00d0\u00ba\u00d0\u00b0 \u00d0\u00be\u00d0\u00b1\u00d0\u00bb\u00d0\u00b0\u00d1\u0081\u00d1\u0082\u00d1\u008c"
         },
         "geo": {
             "latitude": 50.4501,
@@ -1141,7 +1152,7 @@
         "iso_3166_2": "UA-32",
         "iso_a2": "UA",
         "iso_a3": "UKR",
-        "name": "Ky\u00efv",
+        "name": "\u041a\u0438\u0457\u0432\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
         "postal": "32",
         "type": "Oblast'",
         "type_en": "Region"
@@ -1232,7 +1243,8 @@
             "wikipedia": "",
             "woe_id": "2347543",
             "woe_label": "Kirovohrad Oblast, UA, Ukraine",
-            "woe_name": "Kirovohrad"
+            "woe_name": "Kirovohrad",
+            "name_uk": "\u00d0\u009a\u00d1\u0096\u00d1\u0080\u00d0\u00be\u00d0\u00b2\u00d0\u00be\u00d0\u00b3\u00d1\u0080\u00d0\u00b0\u00d0\u00b4\u00d1\u0081\u00d1\u008c\u00d0\u00ba\u00d0\u00b0 \u00d0\u00be\u00d0\u00b1\u00d0\u00bb\u00d0\u00b0\u00d1\u0081\u00d1\u0082\u00d1\u008c"
         },
         "geo": {
             "latitude": 48.507933,
@@ -1245,7 +1257,7 @@
         "iso_3166_2": "UA-35",
         "iso_a2": "UA",
         "iso_a3": "UKR",
-        "name": "Kirovohrads'ka Oblast'",
+        "name": "\u041a\u0456\u0440\u043e\u0432\u043e\u0433\u0440\u0430\u0434\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
         "postal": "35",
         "type": "Oblast'",
         "type_en": "Region"
@@ -1336,7 +1348,8 @@
             "wikipedia": "",
             "woe_id": "2347547",
             "woe_label": "Lviv Oblast, UA, Ukraine",
-            "woe_name": "L'viv"
+            "woe_name": "L'viv",
+            "name_uk": "\u00d0\u009b\u00d1\u008c\u00d0\u00b2\u00d1\u0096\u00d0\u00b2\u00d1\u0081\u00d1\u008c\u00d0\u00ba\u00d0\u00b0 \u00d0\u00be\u00d0\u00b1\u00d0\u00bb\u00d0\u00b0\u00d1\u0081\u00d1\u0082\u00d1\u008c"
         },
         "geo": {
             "latitude": 49.839683,
@@ -1349,7 +1362,7 @@
         "iso_3166_2": "UA-46",
         "iso_a2": "UA",
         "iso_a3": "UKR",
-        "name": "L'vivs'ka Oblast'",
+        "name": "\u041b\u044c\u0432\u0456\u0432\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
         "postal": "46",
         "type": "Oblast'",
         "type_en": "Region"
@@ -1441,7 +1454,8 @@
             "wikipedia": "",
             "woe_id": "2347548",
             "woe_label": "Mykolaiv Oblast, UA, Ukraine",
-            "woe_name": "Mykolayiv"
+            "woe_name": "Mykolayiv",
+            "name_uk": "\u00d0\u009c\u00d0\u00b8\u00d0\u00ba\u00d0\u00be\u00d0\u00bb\u00d0\u00b0\u00d1\u0097\u00d0\u00b2\u00d1\u0081\u00d1\u008c\u00d0\u00ba\u00d0\u00b0 \u00d0\u00be\u00d0\u00b1\u00d0\u00bb\u00d0\u00b0\u00d1\u0081\u00d1\u0082\u00d1\u008c"
         },
         "geo": {
             "latitude": 46.975033,
@@ -1454,7 +1468,7 @@
         "iso_3166_2": "UA-48",
         "iso_a2": "UA",
         "iso_a3": "UKR",
-        "name": "Mykola\u00efvs'ka Oblast'",
+        "name": "\u041c\u0438\u043a\u043e\u043b\u0430\u0457\u0432\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
         "postal": "48",
         "type": "Oblast'",
         "type_en": "Region"
@@ -1545,7 +1559,8 @@
             "wikipedia": "",
             "woe_id": "2347549",
             "woe_label": "Odessa Oblast, UA, Ukraine",
-            "woe_name": "Odessa"
+            "woe_name": "Odessa",
+            "name_uk": "\u00d0\u009e\u00d0\u00b4\u00d0\u00b5\u00d1\u0081\u00d1\u008c\u00d0\u00ba\u00d0\u00b0 \u00d0\u00be\u00d0\u00b1\u00d0\u00bb\u00d0\u00b0\u00d1\u0081\u00d1\u0082\u00d1\u008c"
         },
         "geo": {
             "latitude": 46.484583,
@@ -1558,7 +1573,7 @@
         "iso_3166_2": "UA-51",
         "iso_a2": "UA",
         "iso_a3": "UKR",
-        "name": "Odes'ka Oblast'",
+        "name": "\u041e\u0434\u0435\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
         "postal": "51",
         "type": "Oblast'",
         "type_en": "Region"
@@ -1648,7 +1663,8 @@
             "wikipedia": "",
             "woe_id": "2347550",
             "woe_label": "Poltava Oblast, UA, Ukraine",
-            "woe_name": "Poltava"
+            "woe_name": "Poltava",
+            "name_uk": "\u00d0\u009f\u00d0\u00be\u00d0\u00bb\u00d1\u0082\u00d0\u00b0\u00d0\u00b2\u00d1\u0081\u00d1\u008c\u00d0\u00ba\u00d0\u00b0 \u00d0\u00be\u00d0\u00b1\u00d0\u00bb\u00d0\u00b0\u00d1\u0081\u00d1\u0082\u00d1\u008c"
         },
         "geo": {
             "latitude": 49.588267,
@@ -1661,7 +1677,7 @@
         "iso_3166_2": "UA-53",
         "iso_a2": "UA",
         "iso_a3": "UKR",
-        "name": "Poltavs'ka Oblast'",
+        "name": "\u041f\u043e\u043b\u0442\u0430\u0432\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
         "postal": "53",
         "type": "Oblast'",
         "type_en": "Region"
@@ -1753,7 +1769,8 @@
             "wikipedia": "",
             "woe_id": "2347551",
             "woe_label": "Rivne Oblast, UA, Ukraine",
-            "woe_name": "Rivne"
+            "woe_name": "Rivne",
+            "name_uk": "\u00d0\u00a0\u00d1\u0096\u00d0\u00b2\u00d0\u00bd\u00d0\u00b5\u00d0\u00bd\u00d1\u0081\u00d1\u008c\u00d0\u00ba\u00d0\u00b0 \u00d0\u00be\u00d0\u00b1\u00d0\u00bb\u00d0\u00b0\u00d1\u0081\u00d1\u0082\u00d1\u008c"
         },
         "geo": {
             "latitude": 50.6199,
@@ -1766,7 +1783,7 @@
         "iso_3166_2": "UA-56",
         "iso_a2": "UA",
         "iso_a3": "UKR",
-        "name": "Rivnens'ka Oblast'",
+        "name": "\u0420\u0456\u0432\u043d\u0435\u043d\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
         "postal": "56",
         "type": "Oblast'",
         "type_en": "Region"
@@ -1856,7 +1873,8 @@
             "wikipedia": "",
             "woe_id": "2347552",
             "woe_label": "Sumy Oblast, UA, Ukraine",
-            "woe_name": "Sumy"
+            "woe_name": "Sumy",
+            "name_uk": "\u00d0\u00a1\u00d1\u0083\u00d0\u00bc\u00d1\u0081\u00d1\u008c\u00d0\u00ba\u00d0\u00b0 \u00d0\u00be\u00d0\u00b1\u00d0\u00bb\u00d0\u00b0\u00d1\u0081\u00d1\u0082\u00d1\u008c"
         },
         "geo": {
             "latitude": 50.9077,
@@ -1869,7 +1887,7 @@
         "iso_3166_2": "UA-59",
         "iso_a2": "UA",
         "iso_a3": "UKR",
-        "name": "Sums'ka Oblast'",
+        "name": "\u0421\u0443\u043c\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
         "postal": "59",
         "type": "Oblast'",
         "type_en": "Region"
@@ -1960,7 +1978,8 @@
             "wikipedia": "",
             "woe_id": "2347553",
             "woe_label": "Ternopil Oblast, UA, Ukraine",
-            "woe_name": "Ternopil'"
+            "woe_name": "Ternopil'",
+            "name_uk": "\u00d0\u00a2\u00d0\u00b5\u00d1\u0080\u00d0\u00bd\u00d0\u00be\u00d0\u00bf\u00d1\u0096\u00d0\u00bb\u00d1\u008c\u00d1\u0081\u00d1\u008c\u00d0\u00ba\u00d0\u00b0 \u00d0\u00be\u00d0\u00b1\u00d0\u00bb\u00d0\u00b0\u00d1\u0081\u00d1\u0082\u00d1\u008c"
         },
         "geo": {
             "latitude": 49.553517,
@@ -1973,7 +1992,7 @@
         "iso_3166_2": "UA-61",
         "iso_a2": "UA",
         "iso_a3": "UKR",
-        "name": "Ternopil's'ka Oblast'",
+        "name": "\u0422\u0435\u0440\u043d\u043e\u043f\u0456\u043b\u044c\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
         "postal": "61",
         "type": "Oblast'",
         "type_en": "Region"
@@ -2065,7 +2084,8 @@
             "wikipedia": "",
             "woe_id": "2347540",
             "woe_label": "Kharkiv Oblast, UA, Ukraine",
-            "woe_name": "Kharkiv"
+            "woe_name": "Kharkiv",
+            "name_uk": "\u00d0\u00a5\u00d0\u00b0\u00d1\u0080\u00d0\u00ba\u00d1\u0096\u00d0\u00b2\u00d1\u0081\u00d1\u008c\u00d0\u00ba\u00d0\u00b0 \u00d0\u00be\u00d0\u00b1\u00d0\u00bb\u00d0\u00b0\u00d1\u0081\u00d1\u0082\u00d1\u008c"
         },
         "geo": {
             "latitude": 49.9935,
@@ -2078,7 +2098,7 @@
         "iso_3166_2": "UA-63",
         "iso_a2": "UA",
         "iso_a3": "UKR",
-        "name": "Kharkivs'ka Oblast'",
+        "name": "\u0425\u0430\u0440\u043a\u0456\u0432\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
         "postal": "63",
         "type": "Oblast'",
         "type_en": "Region"
@@ -2169,7 +2189,8 @@
             "wikipedia": "http:\/\/en.wikipedia.org\/wiki\/Kherson_Oblast",
             "woe_id": "2347541",
             "woe_label": "Kherson Oblast, UA, Ukraine",
-            "woe_name": "Kherson Oblast"
+            "woe_name": "Kherson Oblast",
+            "name_uk": "\u00d0\u00a5\u00d0\u00b5\u00d1\u0080\u00d1\u0081\u00d0\u00be\u00d0\u00bd\u00d1\u0081\u00d1\u008c\u00d0\u00ba\u00d0\u00b0 \u00d0\u00be\u00d0\u00b1\u00d0\u00bb\u00d0\u00b0\u00d1\u0081\u00d1\u0082\u00d1\u008c"
         },
         "geo": {
             "latitude": 46.635417,
@@ -2182,7 +2203,7 @@
         "iso_3166_2": "UA-65",
         "iso_a2": "UA",
         "iso_a3": "UKR",
-        "name": "Khersons'ka Oblast'",
+        "name": "\u0425\u0435\u0440\u0441\u043e\u043d\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
         "postal": "65",
         "type": "Oblast'",
         "type_en": ""
@@ -2274,7 +2295,8 @@
             "wikipedia": "",
             "woe_id": "2347542",
             "woe_label": "Khmelnytskyi Oblast, UA, Ukraine",
-            "woe_name": "Khmel'nyts'kyy"
+            "woe_name": "Khmel'nyts'kyy",
+            "name_uk": "\u00d0\u00a5\u00d0\u00bc\u00d0\u00b5\u00d0\u00bb\u00d1\u008c\u00d0\u00bd\u00d0\u00b8\u00d1\u0086\u00d1\u008c\u00d0\u00ba\u00d0\u00b0 \u00d0\u00be\u00d0\u00b1\u00d0\u00bb\u00d0\u00b0\u00d1\u0081\u00d1\u0082\u00d1\u008c"
         },
         "geo": {
             "latitude": 49.422983,
@@ -2287,7 +2309,7 @@
         "iso_3166_2": "UA-68",
         "iso_a2": "UA",
         "iso_a3": "UKR",
-        "name": "Khmel'nyts'ka Oblast'",
+        "name": "\u0425\u043c\u0435\u043b\u044c\u043d\u0438\u0446\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
         "postal": "68",
         "type": "Oblast'",
         "type_en": "Region"
@@ -2377,7 +2399,8 @@
             "wikipedia": "",
             "woe_id": "2347534",
             "woe_label": "Cherkasy Oblast, UA, Ukraine",
-            "woe_name": "Cherkasy"
+            "woe_name": "Cherkasy",
+            "name_uk": "\u00d0\u00a7\u00d0\u00b5\u00d1\u0080\u00d0\u00ba\u00d0\u00b0\u00d1\u0081\u00d1\u008c\u00d0\u00ba\u00d0\u00b0 \u00d0\u00be\u00d0\u00b1\u00d0\u00bb\u00d0\u00b0\u00d1\u0081\u00d1\u0082\u00d1\u008c"
         },
         "geo": {
             "latitude": 49.444433,
@@ -2390,7 +2413,7 @@
         "iso_3166_2": "UA-71",
         "iso_a2": "UA",
         "iso_a3": "UKR",
-        "name": "Cherkas'ka Oblast'",
+        "name": "\u0427\u0435\u0440\u043a\u0430\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
         "postal": "71",
         "type": "Oblast'",
         "type_en": "Region"
@@ -2481,7 +2504,8 @@
             "wikipedia": "",
             "woe_id": "2347535",
             "woe_label": "Chernihiv Oblast, UA, Ukraine",
-            "woe_name": "Chernihiv"
+            "woe_name": "Chernihiv",
+            "name_uk": "\u00d0\u00a7\u00d0\u00b5\u00d1\u0080\u00d0\u00bd\u00d1\u0096\u00d0\u00b3\u00d1\u0096\u00d0\u00b2\u00d1\u0081\u00d1\u008c\u00d0\u00ba\u00d0\u00b0 \u00d0\u00be\u00d0\u00b1\u00d0\u00bb\u00d0\u00b0\u00d1\u0081\u00d1\u0082\u00d1\u008c"
         },
         "geo": {
             "latitude": 51.4982,
@@ -2494,7 +2518,7 @@
         "iso_3166_2": "UA-74",
         "iso_a2": "UA",
         "iso_a3": "UKR",
-        "name": "Chernihivs'ka Oblast'",
+        "name": "\u0427\u0435\u0440\u043d\u0456\u0433\u0456\u0432\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
         "postal": "74",
         "type": "Oblast'",
         "type_en": "Region"
@@ -2589,7 +2613,8 @@
             "wikipedia": "",
             "woe_id": "2347536",
             "woe_label": "Chernivtsi Oblast, UA, Ukraine",
-            "woe_name": "Chernivtsi"
+            "woe_name": "Chernivtsi",
+            "name_uk": "\u00d0\u00a7\u00d0\u00b5\u00d1\u0080\u00d0\u00bd\u00d1\u0096\u00d0\u00b2\u00d0\u00b5\u00d1\u0086\u00d1\u008c\u00d0\u00ba\u00d0\u00b0 \u00d0\u00be\u00d0\u00b1\u00d0\u00bb\u00d0\u00b0\u00d1\u0081\u00d1\u0082\u00d1\u008c"
         },
         "geo": {
             "latitude": 48.291683,
@@ -2602,7 +2627,7 @@
         "iso_3166_2": "UA-77",
         "iso_a2": "UA",
         "iso_a3": "UKR",
-        "name": "Chernivets'ka Oblast'",
+        "name": "\u0427\u0435\u0440\u043d\u0456\u0432\u0435\u0446\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
         "postal": "77",
         "type": "Oblast'",
         "type_en": "Region"
